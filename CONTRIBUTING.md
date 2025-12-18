@@ -5,7 +5,7 @@ This project exists because of the open-source community, and **all kinds of con
 
 Whether you’re here to improve the UI, add animations, optimize logic, or fix a small bug — you’re awesome.
 
----
+
 
 ## 🌟 Ways You Can Contribute
 
@@ -33,7 +33,7 @@ You can help this project in many ways:
 - Fix typos or unclear explanations
 - Add comments to the code for clarity
 
----
+
 
 ## 🛠️ Getting Started
 
@@ -55,7 +55,7 @@ Use clear branch names like:
 - `fix/export-bug`
 - `feature/grid-enhancement`
 
----
+
 
 ## 💻 Development Guidelines
 
@@ -65,7 +65,7 @@ Use clear branch names like:
 - Avoid unnecessary dependencies
 - Test your changes in the browser before submitting
 
----
+
 
 ## ✅ Commit Message Guidelines
 
@@ -76,7 +76,7 @@ Use simple and meaningful commit messages:
 - `ui: improve grid responsiveness`
 - `docs: update README usage section`
 
----
+
 
 ## 📤 Submitting a Pull Request
 
@@ -89,7 +89,7 @@ Use simple and meaningful commit messages:
 
 Your PR will be reviewed as soon as possible 🚀
 
----
+
 
 ## 🧪 Testing
 
@@ -97,7 +97,7 @@ Your PR will be reviewed as soon as possible 🚀
 - Make sure drawing, clearing, and exporting patterns still work
 - Ensure no console errors are introduced
 
----
+
 
 ## 📌 Code of Conduct
 
@@ -107,7 +107,7 @@ Your PR will be reviewed as soon as possible 🚀
 
 Harassment or toxic behavior will not be tolerated.
 
----
+
 
 ## 🙌 Thank You
 
