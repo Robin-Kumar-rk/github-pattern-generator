@@ -53,7 +53,7 @@ Visit the live demo link or open the project locally in your browser.
 Design any pattern you like on the contribution grid.
 
 #### For Example:
-![GitHub Pattern Generator Demo](assets/PatternDemo.png)
+![GitHub Pattern Generator Demo](public/assets/PatternDemo.png)
 
 
 ### 3️⃣ Export as JSON
